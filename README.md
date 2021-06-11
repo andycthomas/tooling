@@ -8,7 +8,7 @@ Changed this file on 10th June 2021 as a simple test case for the github wwebhoo
 
 Another one line change on 10th June 2021 a test for github webhook, and the jenkins post build actions.
 
-This is a change on 11th June 2021. A test for the github webook, jenkins build, and jenkins post build actions. Do we see this line in /mnt/apps on the nfs server?
+This is a small  change on 11th June 2021. A test for the github webook, jenkins build, and jenkins post build actions. Do we see this line in /mnt/apps on the nfs server?
 
 ### Versioning
 | Docker Tag | GitHub Release | Nginx Version | PHP Version | Debian Version |
