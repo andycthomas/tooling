@@ -4,12 +4,7 @@
 ## Introduction
 This is a Dockerfile to build a debian based container image running nginx and php-fpm 7.3.x / 7.2.x / 7.1.x / 7.0.x & Composer.
 
-Changed this file on 10th June 2021 as a simple test case for the github wwebhook on the jenkins server.  
-
-Another one line change on 10th June 2021 a test for github webhook, and the jenkins post build actions.
-
-This is another small  change on 11th June 2021. A test for the github webook, jenkins build, and jenkins post build actions. Do we see this line in /mnt/apps on the nfs server?
-
+A small change on 14th June to test the git webhook and jenkins build
 ### Versioning
 | Docker Tag | GitHub Release | Nginx Version | PHP Version | Debian Version |
 |-----|-------|-----|--------|--------|
